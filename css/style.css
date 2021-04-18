@@ -54,7 +54,7 @@ p{
     color: white;
 }
 .header_subtitle{
-    width: 850px;
+    width: 830px;
     height: 40px;
     border: solid;
     border-radius: 20px;
@@ -81,13 +81,13 @@ ul{
     text-align: center;
     float: left;
     font-size: 17px;
-    color: white;
+    color: #1bc6b4;
     padding: 10px 20px 10px 20px;
 }
 li{
     margin-top: 50px;
     list-style:none;
     text-align: center;
-    color: #1bc6b4;
+    color: #ffffff;
     line-height: 1%;
 }
