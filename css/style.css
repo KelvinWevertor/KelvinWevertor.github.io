@@ -1,0 +1,93 @@
+body{
+    
+    margin: auto;
+    background-image: url(https://image.freepik.com/vetores-gratis/layout-de-quadro-metalico-abstrato-amarelo-e-preto-laranja-fundo-de-conceito-de-inovacao-de-tecnologia_71775-947.jpg);
+    background-size: cover;
+}
+main{
+    width: 100%;
+    height: 100%;
+    color: orange;
+}
+header{
+    font-family: sans-serif;
+    font-size: 16px;
+}
+.header_title{
+    width: 800px;
+    height: 50px;
+    border: solid;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 20px;
+    border-color: orange;
+}
+.header_title, h1{
+    padding: 10px 20px 50px 20px;
+    text-align: center;
+    font-size: 30px;
+    color: #1bc6b4;
+}
+.header_container{
+    width: 850px;
+    height: 300px;
+    border: solid;
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 20px;
+}
+img{
+    border-radius: 30%;
+    margin-top: 15px;
+    margin-left: 20px;
+    float: left;
+}
+p{
+    width: 590px;
+    height: 260px;
+    border: solid;
+    border: none;
+    padding: 10px 10px 10px 240px;
+    font-size: 19px;
+    margin-top: 70px;
+    text-align: justify;
+    color: white;
+}
+.header_subtitle{
+    width: 850px;
+    height: 40px;
+    border: solid;
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 20px;
+}
+.header_subtitle, h2{
+    text-align: center;
+    font-size: 20px;
+    color: #1bc6b4;
+    border-color: orange;
+    padding: 10px 10px 40px 10px;
+}
+.header_list{
+   width: 850px;
+   height: 400px;
+   border: solid;
+   border-radius: 20px;
+   margin: auto;
+   margin-top: 20px;
+}
+ul{
+    margin-top: 20px;
+    text-align: center;
+    float: left;
+    font-size: 17px;
+    color: white;
+    padding: 10px 20px 10px 20px;
+}
+li{
+    margin-top: 50px;
+    list-style:none;
+    text-align: center;
+    color: #1bc6b4;
+    line-height: 1%;
+}
